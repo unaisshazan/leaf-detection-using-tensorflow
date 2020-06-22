@@ -74,7 +74,7 @@ These instructions assume you have `git` installed for working with Github from 
 
 1. Clone the repository, and navigate to the downloaded folder. Follow below commands.
 ```
-git clone https://github.com/johri002/Automatic-leaf-infection-identifier.git
+git clone https://github.com/unaisshazan/leaf-detection-using-tensorflow.git
 cd Automatic-leaf-infection-identifier
 ```
 
